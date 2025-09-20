@@ -1,3 +1,3 @@
 # dev-notes
 
-[My Docusaurus Site](yuet-dev-notes.netlify.app)
+[My Docusaurus Site](https://yuet-dev-notes.netlify.app/)
