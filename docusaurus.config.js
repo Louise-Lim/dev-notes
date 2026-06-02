@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: 'Dev Notes',
-                to: '/docs/intro',
+                to: '/docs/category/02-programming-language',
               },
             ],
           },
